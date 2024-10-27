@@ -1,4 +1,4 @@
 # NPM empty build
 
-Using Node 20.
+Using Node 18.
 
